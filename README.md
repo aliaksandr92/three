@@ -1,2 +1,2 @@
 # Three
-Реализация красно-черного дерева в виде веб-приложения с хранением узлов дерева в БД PostgreSQL с использованием Spring и Hibernate. Так же реализовано добавление и удаление вершин.
+Implementation of a red-black tree as a web application with storage of tree nodes in the PostgreSQL database using Spring and Hibernate. Also, adding and removing vertices is implemented.
